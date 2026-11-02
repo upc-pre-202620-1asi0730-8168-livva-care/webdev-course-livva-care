@@ -18,3 +18,19 @@
 | 03:25–04:35 | Escribir un párrafo con `<p>`. Cambiar su contenido y mostrar la actualización de la vista previa. |
 | 04:35–05:20 | Pausa de práctica: cambiar el título y crear un segundo párrafo con una meta. |
 | 05:20–05:49 | Resumir HTML y CSS, recordar que los errores son parte del aprendizaje y anticipar la estructura HTML completa. |
+
+## Texto en pantalla
+
+- `HTML = contenido y estructura`
+- `CSS = apariencia`
+- `<h1>Contenido</h1>`
+- `<p>Contenido</p>`
+- `Pausa y completa los TODO`
+
+## Resultado esperado
+
+El estudiante crea un encabezado principal y dos párrafos. No se evalúan estilos en esta lección.
+
+## Reto
+
+Cambiar los textos por contenido ficticio propio sin incluir datos personales.
