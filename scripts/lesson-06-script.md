@@ -19,3 +19,22 @@
 | 08:15–09:35 | Completar `.presentacion` con Flexbox: `display`, alineación y espacio. Explicar cada propiedad visualmente. |
 | 09:35–11:10 | Completar `.cuadricula` con Grid, `auto-fit` y `minmax`. Redimensionar la vista para mostrar el cambio automático. |
 | 11:10–12:10 | Completar la consulta `@media` para que la presentación cambie a columna en pantallas pequeñas. |
+| 12:10–13:15 | Pausa de práctica: personalizar textos y colores sin eliminar la accesibilidad ni la adaptabilidad. |
+| 13:15–13:39 | Recorrer el resultado y resumir la relación HTML–CSS. Anticipar la revisión final. |
+
+## Texto en pantalla
+
+- `header: presentación del sitio`
+- `main: contenido principal`
+- `section y article: grupos con significado`
+- `Flexbox: alinear una dimensión`
+- `Grid: organizar filas y columnas`
+- `@media: adaptar estilos a la pantalla`
+
+## Resultado esperado
+
+Una página completa con estructura semántica, imagen accesible, tarjetas, cuadrícula adaptable y enlace seguro.
+
+## Reto
+
+Personalizar el proyecto con información ficticia, conservar la jerarquía de títulos y comprobar la vista móvil.
