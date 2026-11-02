@@ -14,3 +14,5 @@
 | 00:00–00:45 | Mostrar dos tarjetas con el mismo estilo. Preguntar cómo evitar repetir reglas. |
 | 00:45–02:00 | Agregar `class="tarjeta"` al `section`. Explicar que una clase es una etiqueta reutilizable elegida por quien programa. |
 | 02:00–03:00 | Explicar la diferencia entre `.tarjeta` en CSS y `class="tarjeta"` en HTML. |
+| 03:00–04:30 | Presentar el modelo de caja: contenido, `padding`, `border` y `margin`, usando una superposición visual. |
+| 04:30–05:40 | Completar `.contenedor` con ancho flexible y `margin: 40px auto`. Mostrar el centrado. |
