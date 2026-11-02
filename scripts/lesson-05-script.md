@@ -20,3 +20,18 @@
 | 06:50–07:35 | Explicar `box-sizing: border-box` como una forma predecible de calcular tamaños. |
 | 07:35–08:30 | Pausa de práctica: crear una segunda tarjeta reutilizando la clase. |
 | 08:30–09:02 | Resumir clases, caja y centrado. Anticipar el proyecto integrador. |
+
+## Texto en pantalla
+
+- `HTML: class="tarjeta"`
+- `CSS: .tarjeta { ... }`
+- `Contenido → padding → border → margin`
+- `Una clase puede reutilizarse`
+
+## Resultado esperado
+
+Dos tarjetas dentro de un contenedor centrado y adaptable.
+
+## Reto
+
+Crear una tercera tarjeta sin escribir una nueva regla CSS.
