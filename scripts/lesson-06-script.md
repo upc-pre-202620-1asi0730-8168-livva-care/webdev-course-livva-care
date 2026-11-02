@@ -16,3 +16,6 @@
 | 04:10–06:20 | Crear tres artículos de intereses dentro de `.cuadricula`. Usar `h3` porque están subordinados al `h2`. |
 | 06:20–07:35 | Completar la sección de proyecto destacado y crear un enlace descriptivo y seguro. |
 | 07:35–08:15 | Agregar el mensaje del `footer`. Revisar orden y cierre de etiquetas. |
+| 08:15–09:35 | Completar `.presentacion` con Flexbox: `display`, alineación y espacio. Explicar cada propiedad visualmente. |
+| 09:35–11:10 | Completar `.cuadricula` con Grid, `auto-fit` y `minmax`. Redimensionar la vista para mostrar el cambio automático. |
+| 11:10–12:10 | Completar la consulta `@media` para que la presentación cambie a columna en pantallas pequeñas. |
