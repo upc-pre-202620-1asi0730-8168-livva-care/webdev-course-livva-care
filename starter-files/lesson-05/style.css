@@ -1,0 +1,30 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    color: #222222;
+}
+
+/* TODO: configura el ancho y centra el contenido */
+.contenedor {
+    width: 90%;
+    max-width: 700px;
+    margin: 40px auto;
+}
+
+/* TODO: completa el modelo de caja de la tarjeta */
+.tarjeta {
+    background-color: #ffffff;
+
+    /* Agrega padding */
+
+    /* Agrega border */
+
+    /* Agrega border-radius */
+
+    /* Agrega margin-bottom */
+}

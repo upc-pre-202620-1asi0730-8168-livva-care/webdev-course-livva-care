@@ -1,0 +1,23 @@
+﻿/* TODO 1: cambia el color de fondo de la página */
+body {
+    background-color: #ffffff;
+
+    /* TODO 2: cambia el color del texto */
+    color: #000000;
+
+    /* TODO 3: agrega una familia tipográfica */
+    font-family: Arial, sans-serif;
+}
+
+/* TODO 4: cambia el color del título principal */
+h1 {
+    color: #000000;
+}
+
+h2 {
+    color: #000000;
+}
+
+p {
+    line-height: 1.5;
+}

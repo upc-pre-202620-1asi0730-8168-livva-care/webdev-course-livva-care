@@ -1,0 +1,66 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #222222;
+}
+
+.encabezado {
+    text-align: center;
+    padding: 2rem;
+    background-color: #ffffff;
+}
+
+.contenedor {
+    width: 90%;
+    max-width: 900px;
+    margin: 40px auto;
+}
+
+.tarjeta {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 12px;
+    margin-bottom: 1.5rem;
+}
+
+/* TODO: completa la presentación usando Flexbox */
+.presentacion {
+    display: flex;
+
+    /* Agrega align-items */
+
+    /* Agrega gap */
+}
+
+.presentacion img {
+    width: 220px;
+    max-width: 100%;
+    border-radius: 12px;
+}
+
+/* TODO: completa la cuadrícula usando Grid */
+.cuadricula {
+    display: grid;
+
+    /* Agrega grid-template-columns */
+
+    /* Agrega gap */
+}
+
+.pie {
+    text-align: center;
+    padding: 1.5rem;
+    background-color: #ffffff;
+}
+
+/* TODO: adapta la presentación para pantallas pequeñas */
+@media (max-width: 600px) {
+    .presentacion {
+        /* Cambia la dirección a columna */
+    }
+}
