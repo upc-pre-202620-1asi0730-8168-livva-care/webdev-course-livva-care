@@ -8,7 +8,6 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 - **Público objetivo:** estudiantes de secundaria sin experiencia en programación.
 - **Prerrequisitos:** ninguno.
 - **Editor:** CodePen.
-- **Repositorio de código:** [Repositorio](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care.git)
 
 ## Ruta de aprendizaje
 
@@ -29,8 +28,8 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 
 - **Objetivo:** distinguir sitio web, navegador, HTML y CSS, y crear un título y un párrafo.
 - **Producto:** una presentación mínima en pantalla.
-- **Video:** [PENDIENTE: video no listado](PENDIENTE_YOUTUBE_01)
-- **Práctica en CodePen:** [PENDIENTE: Pen inicial](PENDIENTE_CODEPEN_01)
+- **Video:** [L01 - La web y tu primera etiqueta HTML](https://www.youtube.com/watch?v=y4COMFImE0w&list=PLEy7f8npY_x4&index=2&t=19s)
+- **Práctica en CodePen:** [starter-file-01](https://codepen.io/editor/Carlosss-the-sans/pen/01a18ef0-dae6-72d7-91cb-16fd791e6275)
 - **Código inicial:** [`starter-files/lesson-01`](starter-files/lesson-01)
 - **Solución:** [`completed-examples/lesson-01`](completed-examples/lesson-01)
 - **Reto:** cambiar el título y agregar un segundo párrafo.
@@ -40,8 +39,8 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 
 - **Objetivo:** reconocer `doctype`, `html`, `head`, `body`, etiquetas, contenido y atributos.
 - **Producto:** una presentación con idioma, título, encabezados y un enlace.
-- **Video:** [PENDIENTE: video no listado](PENDIENTE_YOUTUBE_02)
-- **Práctica en CodePen:** [PENDIENTE: Pen inicial](PENDIENTE_CODEPEN_02)
+- **Video:** [L02 — Estructura HTML, elementos y atributos](https://www.youtube.com/watch?v=VGip2nhB34E&list=PLEy7f8npY_x4&index=3)
+- **Práctica en CodePen:** [starter-file-02](https://codepen.io/editor/Carlosss-the-sans/pen/01a18f0a-eea4-7c08-83e1-e1d01fc66413)
 - **Código inicial:** [`starter-files/lesson-02`](starter-files/lesson-02)
 - **Solución:** [`completed-examples/lesson-02`](completed-examples/lesson-02)
 - **Reto:** agregar un subtítulo y cambiar el destino del enlace.
@@ -51,8 +50,8 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 
 - **Objetivo:** utilizar encabezados, párrafos, listas, enlaces e imágenes con texto alternativo.
 - **Producto:** una sección de intereses dentro del perfil.
-- **Video:** [PENDIENTE: video no listado](PENDIENTE_YOUTUBE_03)
-- **Práctica en CodePen:** [PENDIENTE: Pen inicial](PENDIENTE_CODEPEN_03)
+- **Video:** [L03 — Contenido con listas, enlaces e imágenes](https://www.youtube.com/watch?v=GPr0y1U5UC0&list=PLEy7f8npY_x4&index=4)
+- **Práctica en CodePen:** [starter-file-03](https://codepen.io/editor/Carlosss-the-sans/pen/01a18f0e-e00f-74a2-ac54-d8b0b379f2ba)
 - **Código inicial:** [`starter-files/lesson-03`](starter-files/lesson-03)
 - **Solución:** [`completed-examples/lesson-03`](completed-examples/lesson-03)
 - **Reto:** añadir un cuarto interés y describir correctamente la imagen.
@@ -62,8 +61,8 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 
 - **Objetivo:** comprender selector, propiedad y valor, y modificar colores y tipografía.
 - **Producto:** una página con identidad visual básica.
-- **Video:** [PENDIENTE: video no listado](PENDIENTE_YOUTUBE_04)
-- **Práctica en CodePen:** [PENDIENTE: Pen inicial](PENDIENTE_CODEPEN_04)
+- **Video:** [L04 — Introducción a CSS](https://www.youtube.com/watch?v=4qFl86NKh2E&list=PLEy7f8npY_x4&index=5)
+- **Práctica en CodePen:** [starter-files-04](https://codepen.io/editor/Carlosss-the-sans/pen/01a18f13-1546-7692-8744-38daff334035)
 - **Código inicial:** [`starter-files/lesson-04`](starter-files/lesson-04)
 - **Solución:** [`completed-examples/lesson-04`](completed-examples/lesson-04)
 - **Reto:** crear una combinación propia de fondo, texto y color destacado que mantenga buen contraste.
@@ -73,8 +72,8 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 
 - **Objetivo:** aplicar clases y utilizar ancho, margen, relleno, borde y esquinas redondeadas.
 - **Producto:** una tarjeta central ordenada y legible.
-- **Video:** [PENDIENTE: video no listado](PENDIENTE_YOUTUBE_05)
-- **Práctica en CodePen:** [PENDIENTE: Pen inicial](PENDIENTE_CODEPEN_05)
+- **Video:** [L05 — Clases, cajas y contenido centrado](https://www.youtube.com/watch?v=cuOw4MQJl5w&list=PLEy7f8npY_x4&index=6)
+- **Práctica en CodePen:** [starter-files-05](https://codepen.io/editor/Carlosss-the-sans/pen/01a18f18-46d6-7d80-9507-93a60aea3ce9)
 - **Código inicial:** [`starter-files/lesson-05`](starter-files/lesson-05)
 - **Solución:** [`completed-examples/lesson-05`](completed-examples/lesson-05)
 - **Reto:** crear una segunda tarjeta con una clase reutilizada.
@@ -84,8 +83,8 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 
 - **Objetivo:** integrar HTML semántico y CSS para construir una página sencilla y adaptable.
 - **Producto:** página final con encabezado, presentación, intereses, proyecto y pie de página.
-- **Video:** [PENDIENTE: video no listado](PENDIENTE_YOUTUBE_06)
-- **Práctica en CodePen:** [PENDIENTE: Pen inicial](PENDIENTE_CODEPEN_06)
+- **Video:** [L06 — Proyecto Mi rincón creativo](https://www.youtube.com/watch?v=MlJmuuFSUYo&list=PLEy7f8npY_x4&index=7)
+- **Práctica en CodePen:** [starter-files-06](https://codepen.io/editor/Carlosss-the-sans/pen/01a18f1c-ad03-7797-a23a-cf91bb31937e)
 - **Código inicial:** [`starter-files/lesson-06`](starter-files/lesson-06)
 - **Solución:** [`completed-examples/lesson-06`](completed-examples/lesson-06)
 - **Reto:** personalizar textos, colores y tarjetas sin incluir datos reales sensibles.
@@ -95,8 +94,8 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 
 - **Objetivo:** corregir errores frecuentes y revisar texto alternativo, jerarquía y contraste.
 - **Producto:** versión corregida y accesible del perfil.
-- **Video:** [PENDIENTE: video no listado](PENDIENTE_YOUTUBE_07)
-- **Práctica en CodePen:** [PENDIENTE: Pen con errores](PENDIENTE_CODEPEN_07)
+- **Video:** [L07 — Errores comunes, accesibilidad y próximos pasos](https://www.youtube.com/watch?v=N3gLeTlQGWM&list=PLEy7f8npY_x4&index=8)
+- **Práctica en CodePen:** [starter-files-07](https://codepen.io/editor/Carlosss-the-sans/pen/01a18f1d-919c-77b4-be09-63d9eb05541f)
 - **Código inicial:** [`starter-files/lesson-07`](starter-files/lesson-07)
 - **Solución:** [`completed-examples/lesson-07`](completed-examples/lesson-07)
 - **Reto:** localizar y corregir al menos cinco problemas sin mirar la solución.
@@ -117,7 +116,7 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 - **Nombre del equipo:** Livva Care.
 - **Líder del equipo:** Carlos Paredes.
 - **Integrantes:** Carlos Céspedes, Fernando Contreras, Rolando Torres, Scarlet Rivera.
-- **Fecha de entrega:** PENDIENTE.
+- **Fecha de entrega:** 12 de Noviembre del 2026.
 
 ### Resumen de participación
 
