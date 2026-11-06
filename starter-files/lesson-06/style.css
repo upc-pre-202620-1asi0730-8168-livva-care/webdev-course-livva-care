@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #f6f4ff;
+  color: #25213b;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.encabezado {
+  padding: 48px 20px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #5b3cc4;
+}
+
+.contenedor {
+  width: min(92%, 960px);
+  margin: 32px auto;
+}
+
+.tarjeta {
+  padding: 24px;
+  background-color: #ffffff;
+  border: 2px solid #ded7f7;
+  border-radius: 16px;
+}
+
+/* TODO 7: convierte .presentacion en un contenedor flexible. */
+.presentacion {
+}
+
+.presentacion img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+/* TODO 8: crea una cuadrícula adaptable con auto-fit y minmax. */
+.cuadricula {
+}
+
+.proyecto {
+  margin-top: 24px;
+}
+
+a {
+  color: #4b2eaa;
+}
+
+footer {
+  padding: 24px;
+  text-align: center;
+}
+
+/* TODO 9: en pantallas pequeñas, coloca .presentacion en una columna. */
+@media (max-width: 600px) {
+}
+
