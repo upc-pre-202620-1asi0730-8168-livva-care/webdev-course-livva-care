@@ -34,7 +34,3 @@
 ## Resultado esperado
 
 Una página completa con estructura semántica, imagen accesible, tarjetas, cuadrícula adaptable y enlace seguro.
-
-## Reto
-
-Personalizar el proyecto con información ficticia, conservar la jerarquía de títulos y comprobar la vista móvil.
