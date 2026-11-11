@@ -29,7 +29,3 @@
 
 Una presentación con `h1`, `h2`, párrafo y enlace externo seguro.
 
-## Reto
-
-Agregar un nuevo subtítulo y cambiar el texto y destino del enlace.
-
