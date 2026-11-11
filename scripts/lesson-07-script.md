@@ -29,8 +29,3 @@
 ## Resultado esperado
 
 Versión corregida con jerarquía, texto alternativo, enlace seguro, selectores coincidentes, contraste y diseño adaptable.
-
-## Reto final
-
-Crear en un Pen nuevo una página temática utilizando al menos cinco elementos HTML, dos clases y una adaptación para pantalla pequeña.
-
