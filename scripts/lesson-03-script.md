@@ -29,8 +29,3 @@
 ## Resultado esperado
 
 Página con imagen adaptable, lista de cuatro intereses y enlace externo descriptivo.
-
-## Reto
-
-Modificar el texto alternativo para que describa la imagen sin comenzar con “imagen de”.
-
