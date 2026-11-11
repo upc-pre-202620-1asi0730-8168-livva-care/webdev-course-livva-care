@@ -31,7 +31,3 @@
 ## Resultado esperado
 
 Dos tarjetas dentro de un contenedor centrado y adaptable.
-
-## Reto
-
-Crear una tercera tarjeta sin escribir una nueva regla CSS.
