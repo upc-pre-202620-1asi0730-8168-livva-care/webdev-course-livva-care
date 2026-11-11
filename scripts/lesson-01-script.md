@@ -31,6 +31,3 @@
 
 El estudiante crea un encabezado principal y dos párrafos. No se evalúan estilos en esta lección.
 
-## Reto
-
-Cambiar los textos por contenido ficticio propio sin incluir datos personales.
