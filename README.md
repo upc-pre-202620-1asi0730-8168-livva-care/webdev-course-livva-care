@@ -30,8 +30,8 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 - **Producto:** una presentación mínima en pantalla.
 - **Video:** [Lección 01](https://youtu.be/y4COMFImE0w)
 - **Práctica en CodePen:** [Pen Inicial](https://codepen.io/editor/Carlosss-the-sans/pen/01a18ef0-dae6-72d7-91cb-16fd791e6275)
-- **Código inicial:** [`starter-files/lesson-01`](starter-files/lesson-01)
-- **Solución:** [`completed-examples/lesson-01`](completed-examples/lesson-01)
+- **Código inicial:** [`starter-files/lesson-01`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/starter-files/lesson-01)
+- **Solución:** [`completed-examples/lesson-01`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/completed-examples/lesson-01)
 - **Reto:** cambiar el título y agregar un segundo párrafo.
 - **Idea clave:** HTML organiza el contenido y CSS modifica su apariencia.
 
@@ -41,8 +41,8 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 - **Producto:** una presentación con idioma, título, encabezados y un enlace.
 - **Video:** [Lección 02](https://youtu.be/VGip2nhB34E)
 - **Práctica en CodePen:** [Pen inicial](https://codepen.io/editor/Carlosss-the-sans/pen/01a18f0a-eea4-7c08-83e1-e1d01fc66413)
-- **Código inicial:** [`starter-files/lesson-02`](starter-files/lesson-02)
-- **Solución:** [`completed-examples/lesson-02`](completed-examples/lesson-02)
+- **Código inicial:** [`starter-files/lesson-02`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/starter-files/lesson-02)
+- **Solución:** [`completed-examples/lesson-02`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/completed-examples/lesson-02)
 - **Reto:** agregar un subtítulo y cambiar el destino del enlace.
 - **Idea clave:** un elemento combina etiquetas y contenido; un atributo aporta información adicional.
 
@@ -52,8 +52,8 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 - **Producto:** una sección de intereses dentro del perfil.
 - **Video:** [Lección 03](https://youtu.be/GPr0y1U5UC0)
 - **Práctica en CodePen:** [Pen inicial](https://codepen.io/editor/Carlosss-the-sans/pen/01a18f0e-e00f-74a2-ac54-d8b0b379f2ba)
-- **Código inicial:** [`starter-files/lesson-03`](starter-files/lesson-03)
-- **Solución:** [`completed-examples/lesson-03`](completed-examples/lesson-03)
+- **Código inicial:** [`starter-files/lesson-03`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/starter-files/lesson-03)
+- **Solución:** [`completed-examples/lesson-03`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/completed-examples/lesson-03)
 - **Reto:** añadir un cuarto interés y describir correctamente la imagen.
 - **Idea clave:** cada etiqueta comunica una función diferente al navegador.
 
@@ -63,8 +63,8 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 - **Producto:** una página con identidad visual básica.
 - **Video:** [Lección 04](https://youtu.be/4qFl86NKh2E)
 - **Práctica en CodePen:** [Pen inicial](https://codepen.io/editor/Carlosss-the-sans/pen/01a18f13-1546-7692-8744-38daff334035)
-- **Código inicial:** [`starter-files/lesson-04`](starter-files/lesson-04)
-- **Solución:** [`completed-examples/lesson-04`](completed-examples/lesson-04)
+- **Código inicial:** [`starter-files/lesson-04`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/starter-files/lesson-04)
+- **Solución:** [`completed-examples/lesson-04`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/completed-examples/lesson-04)
 - **Reto:** crear una combinación propia de fondo, texto y color destacado que mantenga buen contraste.
 - **Idea clave:** una regla CSS selecciona elementos y les asigna propiedades.
 
@@ -74,8 +74,8 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 - **Producto:** una tarjeta central ordenada y legible.
 - **Video:** [Lección 05](https://youtu.be/cuOw4MQJl5w)
 - **Práctica en CodePen:** [Pen inicial](https://codepen.io/editor/Carlosss-the-sans/pen/01a18f18-46d6-7d80-9507-93a60aea3ce9)
-- **Código inicial:** [`starter-files/lesson-05`](starter-files/lesson-05)
-- **Solución:** [`completed-examples/lesson-05`](completed-examples/lesson-05)
+- **Código inicial:** [`starter-files/lesson-05`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/starter-files/lesson-05)
+- **Solución:** [`completed-examples/lesson-05`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/completed-examples/lesson-05)
 - **Reto:** crear una segunda tarjeta con una clase reutilizada.
 - **Idea clave:** las clases permiten aplicar el mismo estilo a varios elementos.
 
@@ -83,10 +83,10 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 
 - **Objetivo:** integrar HTML semántico y CSS para construir una página sencilla y adaptable.
 - **Producto:** página final con encabezado, presentación, intereses, proyecto y pie de página.
-- **Video:** [Lección 05](https://youtu.be/MlJmuuFSUYo)
+- **Video:** [Lección 06](https://youtu.be/MlJmuuFSUYo)
 - **Práctica en CodePen:** [Pen inicial](https://codepen.io/editor/Carlosss-the-sans/pen/01a18f1c-ad03-7797-a23a-cf91bb31937e)
-- **Código inicial:** [`starter-files/lesson-06`](starter-files/lesson-06)
-- **Solución:** [`completed-examples/lesson-06`](completed-examples/lesson-06)
+- **Código inicial:** [`starter-files/lesson-06`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/starter-files/lesson-06)
+- **Solución:** [`completed-examples/lesson-06`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/completed-examples/lesson-06)
 - **Reto:** personalizar textos, colores y tarjetas sin incluir datos reales sensibles.
 - **Idea clave:** una página clara combina estructura, contenido, estilos y revisión.
 
@@ -96,8 +96,8 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 - **Producto:** versión corregida y accesible del perfil.
 - **Video:** [Lección 07](https://youtu.be/N3gLeTlQGWM)
 - **Práctica en CodePen:** [Pen con errores](https://codepen.io/editor/Carlosss-the-sans/pen/01a18f1d-919c-77b4-be09-63d9eb05541f)
-- **Código inicial:** [`starter-files/lesson-07`](starter-files/lesson-07)
-- **Solución:** [`completed-examples/lesson-07`](completed-examples/lesson-07)
+- **Código inicial:** [`starter-files/lesson-07`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/starter-files/lesson-07)
+- **Solución:** [`completed-examples/lesson-07`](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care/tree/main/completed-examples/lesson-07)
 - **Reto:** localizar y corregir al menos cinco problemas sin mirar la solución.
 - **Idea clave:** probar, revisar y corregir también forma parte del desarrollo web.
 
@@ -127,4 +127,3 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 | Fernando Contreras | Lecciones de CSS | Código, guiones y videos |
 | Carlos Paredes | Proyecto integrador | Código, práctica y video |
 | Carlos Céspedes | Revisión y edición | Pruebas, enlaces y edición audiovisual |
-
