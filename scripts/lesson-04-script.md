@@ -28,8 +28,3 @@
 ## Resultado esperado
 
 Página con fondo, tipografía, texto y títulos diferenciados sin alterar el HTML.
-
-## Reto
-
-Elegir una segunda combinación de colores y comprobar que el texto se lea con facilidad.
-
