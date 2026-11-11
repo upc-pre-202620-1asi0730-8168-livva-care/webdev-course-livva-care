@@ -9,6 +9,12 @@ Este curso introduce a estudiantes de 12 a 17 años a la creación de páginas w
 - **Prerrequisitos:** ninguno.
 - **Editor:** CodePen.
 
+## Repositorio del curso
+
+Todo el código inicial, las soluciones completas y los guiones de las lecciones se encuentran en el siguiente repositorio:
+
+**[Repositorio del curso](https://github.com/upc-pre-202620-1asi0730-8168-livva-care/webdev-course-livva-care)**
+
 ## Ruta de aprendizaje
 
 | Lección | Tema | Duración |
